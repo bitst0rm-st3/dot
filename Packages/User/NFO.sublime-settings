@@ -1,0 +1,16 @@
+{
+    // Encoding
+    "default_encoding": "DOS (CP 437)",
+    "fallback_encoding": "DOS (CP 437)",
+
+    // Typography
+    "font_face": "Courier New",
+    "font_options": ["gray_antialias"],
+    "draw_centered": true,
+    "word_wrap": false,
+
+    // General editor look & feel
+    "gutter": true,
+    "draw_indent_guides": false,
+    "rulers": []
+}

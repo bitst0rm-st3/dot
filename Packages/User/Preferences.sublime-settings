@@ -1,0 +1,21 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Scheme - One/One Light.sublime-color-scheme",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

@@ -1,0 +1,29 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "Theme - Soda",
+			"details": "https://github.com/bitst0rm-pub/Theme-Soda",
+			"description": "Dark and light custom UI themes for Sublime Text",
+			"labels": ["theme"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Scheme - One",
+			"details": "https://github.com/bitst0rm-pub/Scheme-One",
+			"description": "Atom's One syntax color scheme for Sublime Text 3",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"branch": "master"
+				}
+			]
+		}
+	]
+}

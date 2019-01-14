@@ -1,0 +1,36 @@
+{
+    "extends": [
+        "stylelint-config-standard",
+        "stylelint-config-prettier"
+    ],
+    "plugins": [
+        "stylelint-prettier",
+        "stylelint-a11y",
+        "stylelint-group-selectors",
+        "stylelint-no-indistinguishable-colors"
+    ],
+    "rules": {
+        "plugin/stylelint-group-selectors": true,
+        "plugin/stylelint-no-indistinguishable-colors": true,
+        "prettier/prettier": [
+            true,
+            {
+                "parser": "css",
+                "singleQuote": false,
+                "tabWidth": 4
+            }
+        ],
+        "a11y/content-property-no-static-value": false,
+        "a11y/font-size-is-readable": false,
+        "a11y/line-height-is-vertical-rhythmed": [true, { "severity": "warning" }],
+        "a11y/media-prefers-color-scheme": false,
+        "a11y/media-prefers-reduced-motion": false,
+        "a11y/no-display-none": false,
+        "a11y/no-obsolete-attribute": [true, { "severity": "warning" }],
+        "a11y/no-obsolete-element": [true, { "severity": "warning" }],
+        "a11y/no-outline-none": false,
+        "a11y/no-spread-text": false,
+        "a11y/no-text-align-justify": false,
+        "a11y/selector-pseudo-class-focus": false
+    }
+}

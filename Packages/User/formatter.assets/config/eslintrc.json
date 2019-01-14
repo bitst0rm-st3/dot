@@ -1,0 +1,23 @@
+{
+    "extends": [
+        "eslint-config-standard",
+        "eslint-config-prettier"
+    ],
+    "plugins": [
+        "eslint-plugin-standard",
+        "eslint-plugin-prettier"
+    ],
+    "rules": {
+        "prettier/prettier": [
+            "error",
+            {
+                "bracketSpacing": true,
+                "jsxSingleQuote": true,
+                "parser": "babylon",
+                "printWidth": 120,
+                "singleQuote": true,
+                "tabWidth": 4
+            }
+        ]
+    }
+}
