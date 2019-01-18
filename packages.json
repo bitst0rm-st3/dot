@@ -14,13 +14,13 @@
 			]
 		},
 		{
-			"name": "Scheme - One",
-			"details": "https://github.com/bitst0rm-pub/Scheme-One",
-			"description": "Atom's One syntax color scheme for Sublime Text 3",
+			"name": "Color Scheme - Two",
+			"details": "https://github.com/bitst0rm-pub/Color-Scheme-Two",
+			"description": "Color scheme based on Atom's One",
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
+					"sublime_text": ">=3170",
 					"branch": "master"
 				}
 			]
