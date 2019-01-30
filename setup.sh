@@ -140,7 +140,6 @@ declare -a python=(
     "beautysh" # Formatter
     "black" # Formatter
     "yapf" # Formatter
-    "uncompyle6" # Python decompiler
 )
 
 declare -a ruby=(
