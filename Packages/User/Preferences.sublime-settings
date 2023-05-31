@@ -1,21 +1,24 @@
 {
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Two/Two Light.sublime-color-scheme",
-	"draw_minimap_border": true,
-	"ensure_newline_at_eof_on_save": true,
-	"find_selected_text": true,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"show_encoding": true,
-	"show_full_path": true,
-	"show_line_endings": true,
-	"theme": "Soda Light 3.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+    "theme": "auto",
+    "dark_theme": "Soda Dark 3.sublime-theme",
+    "light_theme": "Soda Light 3.sublime-theme",
+    "color_scheme": "auto",
+    "light_color_scheme": "Two Light.sublime-color-scheme",
+    "dark_color_scheme": "Two Dark.sublime-color-scheme",
+    "translate_tabs_to_spaces": true,
+    "draw_minimap_border": true,
+    "highlight_line": true,
+    "caret_style": "smooth",
+    "line_padding_top": 1,
+    "line_padding_bottom": 1,
+    "trim_trailing_white_space_on_save": "all",
+    "trim_only_modified_white_space": false,
+    "ensure_newline_at_eof_on_save": true,
+    "find_selected_text": true,
+    "highlight_modified_tabs": true,
+    "bold_folder_labels": true,
+    "show_encoding": true,
+    "show_line_endings": true,
+    "show_full_path": true,
+    "ignored_packages": ["Vintage"]
 }
