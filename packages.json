@@ -3,7 +3,7 @@
 	"packages": [
 		{
 			"name": "Theme - Soda",
-			"details": "https://github.com/bitst0rm-pub/Theme-Soda",
+			"details": "https://github.com/bitst0rm-pub/soda-theme",
 			"description": "Dark and light custom UI themes for Sublime Text",
 			"labels": ["theme"],
 			"releases": [
@@ -15,7 +15,7 @@
 		},
 		{
 			"name": "Color Scheme - Two",
-			"details": "https://github.com/bitst0rm-pub/Color-Scheme-Two",
+			"details": "https://github.com/bitst0rm-pub/color-scheme-two",
 			"description": "Color scheme based on Atom's One",
 			"labels": ["color scheme"],
 			"releases": [
